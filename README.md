@@ -1,2 +1,2 @@
 # ampstart-posttype
-Wordpress Custom Post Type for AMP
+Wordpress Custom Post Type for AMP Start Templates
